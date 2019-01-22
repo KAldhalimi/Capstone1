@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\wk1cap\wk1cap\bin\Debug\wk1cap.exe.config
+C:\Users\admin\source\repos\wk1cap\wk1cap\bin\Debug\wk1cap.exe
+C:\Users\admin\source\repos\wk1cap\wk1cap\bin\Debug\wk1cap.pdb
+C:\Users\admin\source\repos\wk1cap\wk1cap\obj\Debug\wk1cap.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\wk1cap\wk1cap\obj\Debug\wk1cap.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\wk1cap\wk1cap\obj\Debug\wk1cap.exe
+C:\Users\admin\source\repos\wk1cap\wk1cap\obj\Debug\wk1cap.pdb
